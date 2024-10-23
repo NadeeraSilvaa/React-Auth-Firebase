@@ -1,5 +1,3 @@
-
-```markdown
 # React Firebase Authentication
 
 ## Project Title
@@ -95,19 +93,15 @@ react-firebase-auth/
 
 Ensure you have the following environment variables in your `.env` file:
 
-```plaintext
 REACT_APP_API_KEY=your_actual_api_key_here
 REACT_APP_AUTH_DOMAIN=your_project_id.firebaseapp.com
 REACT_APP_PROJECT_ID=your_project_id
 REACT_APP_STORAGE_BUCKET=your_project_id.appspot.com
 REACT_APP_MESSAGING_SENDER_ID=your_messaging_sender_id
 REACT_APP_APP_ID=your_app_id
-```
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
