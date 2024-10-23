@@ -6,7 +6,7 @@
 React Firebase Authentication
 
 ## Description
-This is a simple React application that implements user authentication using Firebase. Users can register, log in, and log out. The application demonstrates how to integrate Firebase Authentication with a React application using functional components and React Hooks.
+This is a simple React application that implements user authentication using Firebase. Users can register, log in, and log out. The<br> application demonstrates how to integrate Firebase Authentication with a React application using functional components and React Hooks.
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
